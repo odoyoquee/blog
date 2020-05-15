@@ -1,0 +1,2 @@
+Hello {{user.username}}, Welcome to Gee-blog.
+You have joined a great blogging platform where you will be able to recieve blogs updates regularly
