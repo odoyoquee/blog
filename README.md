@@ -31,13 +31,25 @@
 ## TECHNOLOGIES USED
 
 * Python3.6
+
 * Flask
+
 * Javascript
+
 * Heroku
 
 ## KNOWN BUGS
 
 * There are no known bugs currently but pull requests are allowed incase you spot a bug
+
+## CONTACT INFORMATION
+
+* Email-address:odoyograce23@gmail.com
+* Github:odoyoquee
+
+
+
+
 
 
 
