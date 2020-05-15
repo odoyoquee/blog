@@ -47,6 +47,10 @@
 * Email-address:odoyograce23@gmail.com
 * Github:odoyoquee
 
+## LICENSE
+
+- This software license under MIT License
+- Copyright (c) ODOYO GRACE AWINO 2020
 
 
 
