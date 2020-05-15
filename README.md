@@ -19,7 +19,6 @@
 
 ## BDD
 
-## BDD
 | Behaviour | Input | Output |
 | :---------------- | :---------------: | ------------------: |
 | Load the page | **On page load** | Get all blogs, Select between signup and login|
@@ -28,6 +27,16 @@
 | Select comment button | **Comment** | Form that you input your comment|
 | Click on submit |  | Redirect to all comments tamplate with your comment and other comments|
 |Subscription | **Email Address**| Flash message "Succesfully subsbribed to Gee-blog"|
+
+## TECHNOLOGIES USED
+
+* Python3.6
+* Flask
+* Javascript
+* Heroku
+
+
+
 
 
 
