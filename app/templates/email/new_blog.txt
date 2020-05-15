@@ -7,4 +7,4 @@ Post: {{blog.content|truncate(30)}}
 
 Cheers,
 
-Charlotte-p-blog
+Gee-blog
