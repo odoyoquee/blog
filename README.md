@@ -1,5 +1,5 @@
 # [[GEE-BLOG]]
 
-## Author
+## AUTHOR'S NAME
 - Odoyo Grace Awino
 
